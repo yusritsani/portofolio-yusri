@@ -85,6 +85,7 @@ li {
 
   .header img {
     width: 100%;
+    min-height: 60vh;
   }
 }
 
@@ -100,6 +101,7 @@ li {
   }
 
   .header img {
+    min-height: 100vh;
     width: 100%
   }
 }
