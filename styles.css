@@ -655,20 +655,18 @@ button.btn:active {
 }
 
 .skills-box .css {
-  width:15%;
+  width:80%;
 }
 
 .skills-box .javascript {
-  width: 90%;
+  width: 50%;
 }
 
-.skills-box .nodejs {
+.skills-box .PHP {
   width: 80%;
 }
 
-.skills-box .mongodb {
-  width: 95%;
-}
+
 
 .skills-box span {
   position: absolute;
